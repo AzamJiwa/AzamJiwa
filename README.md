@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m passionate about data analytics, data visualization,
 - 👀 I’m interested in data science, SQL, R programming, and business analytics.
 - 🌱 I’m currently learning advanced SQL techniques and R data visualization tools.
 - 💞️ I’m looking to collaborate on data analysis and visualization projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/azamjiwa/) | azamjiwa9@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/azam-jiwa-350ba3155/ | azamjiwa9@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I recently completed an SQL churn analysis project — check it out below!
 
